@@ -6,4 +6,5 @@
 
 
 想要复现这个模型，可以参考 Semantic-Segmentation-Suite：https://github.com/GeorgeSeif/Semantic-Segmentation-Suite
+
 configuration.py 这个文件的主要目的是配置学习率，其他的实现步骤都和上面参考差不多
